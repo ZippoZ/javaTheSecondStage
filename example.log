@@ -1,0 +1,4 @@
+DEBUG main org.apache.log4j.Logger - debug
+INFO main org.apache.log4j.Logger - info
+ERROR main org.apache.log4j.Logger - error
+WARN main org.apache.log4j.Logger - warn
